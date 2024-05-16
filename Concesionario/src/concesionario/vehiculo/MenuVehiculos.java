@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Manlio
+ * @author Diego
  */
 public class MenuVehiculos {
       // Creamos la lista en dónde serán almacenados los vehiculos:

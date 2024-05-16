@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Manlio
+ * @author Diego
  */
 public class MenuVenta {
     ArrayList<Venta> listaVenta = new ArrayList<>();
